@@ -1,0 +1,77 @@
+body {
+	background-color: #009933;
+}
+header {
+	background-color: #FF9933;
+	background-image: url("minion.jpg");
+	background-position: right 5px top 5px;
+	background-repeat: no-repeat;
+	height:150px;
+	padding:5px;
+	padding-left:15px;
+	min-height:150px;
+}
+h1 {
+	color: #000000;
+	font-size: 225%;
+	font-family: Cambri, Courier;
+}
+h2 {
+	color: #000000;
+	font-size: 150%;
+	font-family: Cambri, Courier;
+}
+h3 {
+	color: #000000;
+	font-size: 150%;
+	font-family: Cambri, Courier;
+}
+h4 {
+	color: #000000;
+	font-size: 150%;
+	font-family: Cambri, Courier;
+}
+h5 {
+	color: #000000;
+	font-size: 150%;
+	font-family: Cambri, Courier;
+}
+h6 {
+	color: #000000;
+	font-size: 150%;
+	font-family: Cambri, Courier;
+}
+footer {
+	background-color: #31FF00;
+	color: #0000ff;
+	text-align: center;
+	font-size:90%;
+	padding:5px;
+}
+#content {
+	background-color: #FFFFFF;
+	padding:5px;
+	font-family: Comic Sans MS;
+	font-size: 100%;
+	min-height:500px;
+}
+ul {
+	list-style-position: inside;
+}
+.floatingImg {
+	float: left;
+	margin: 0px 10px;
+}
+header, footer, #content {
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	font-size: 150%;
+
+}
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	box-shadow: 6px 6px 6px black;
+}
